@@ -35,7 +35,6 @@ public class SaleDTO {
 		date = entity.getDate();
 		seller = new SellerDTO(entity.getSeller());
 	}
-
 	public Long getId() {
 		return id;
 	}
@@ -85,3 +84,6 @@ public class SaleDTO {
 	}
 	
 }
+
+
+	

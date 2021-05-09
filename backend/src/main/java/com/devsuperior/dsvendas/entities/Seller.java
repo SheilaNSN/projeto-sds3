@@ -10,7 +10,6 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-
 @Entity
 @Table(name = "tb_sellers")
 public class Seller {
@@ -51,6 +50,4 @@ public class Seller {
 	public List<Sale> getSales() {
 		return sales;
 	}
-
-	
 }
