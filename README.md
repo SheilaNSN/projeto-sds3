@@ -4,15 +4,10 @@
 
 Bem-vindos ao repositório da SDS 3.0!
 
+## ![Site](https://sheiladsvendas.netlify.app/)
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - SDS 3.0
-> Evento gratuito - 3 a 9 de maio/2021
-> 
+ 
 >  *Criar um app inédito com as tecnologias mais demandadas do mercado.*
-
-
-![ds_dark](https://user-images.githubusercontent.com/34319735/117230545-b0373b80-adf3-11eb-98ee-4ce64ed354cd.jpg)
-
-# Semana Spring React - SDS 3.0
 
 ### Event on May 3 to 9, 2021 to create a sales dashboard.
 
@@ -40,11 +35,11 @@ Bem-vindos ao repositório da SDS 3.0!
 ### - Front-end: Netlify
 ### - Database: Postgresql 12
 
-# 🏠 Home Page
-# 🎯 Dashboard
-# 📱 Responsive Application
-# 📚 Layers Structure
-# ✏️ Conceptual Model
+### 🏠 Home Page
+### 🎯 Dashboard
+### 📱 Responsive Application
+### 📚 Layers Structure
+### ✏️ Conceptual Model
 
 # 🖥️ How To Run The Project
 
