@@ -1,13 +1,12 @@
 
-## Realização
-[DevSuperior - Escola de programação](https://devsuperior.com.br)
-
-Bem-vindos ao repositório da SDS 3.0!
-
-## ![Site](https://sheiladsvendas.netlify.app/)
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - SDS 3.0
  
 >  *Criar um app inédito com as tecnologias mais demandadas do mercado.*
+
+## Realização
+[DevSuperior - Escola de programação](https://devsuperior.com.br)
+
+[Link to dashboard](https://sheiladsvendas.netlify.app/)
 
 ### Event on May 3 to 9, 2021 to create a sales dashboard.
 
